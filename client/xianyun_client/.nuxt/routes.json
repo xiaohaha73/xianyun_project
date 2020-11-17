@@ -1,0 +1,65 @@
+[
+  {
+    "name": "air",
+    "path": "/air",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\air\\\\index.vue",
+    "chunkName": "pages/air/index",
+    "_name": "_597c554f"
+  },
+  {
+    "name": "hotel",
+    "path": "/hotel",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\hotel\\\\index.vue",
+    "chunkName": "pages/hotel/index",
+    "_name": "_42ba7236"
+  },
+  {
+    "name": "post",
+    "path": "/post",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\post\\\\index.vue",
+    "chunkName": "pages/post/index",
+    "_name": "_7ca16e3b"
+  },
+  {
+    "name": "air-flights",
+    "path": "/air/flights",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\air\\\\flights.vue",
+    "chunkName": "pages/air/flights",
+    "_name": "_225910c0"
+  },
+  {
+    "name": "air-pay",
+    "path": "/air/pay",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\air\\\\pay.vue",
+    "chunkName": "pages/air/pay",
+    "_name": "_738f1136"
+  },
+  {
+    "name": "air-purchase",
+    "path": "/air/purchase",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\air\\\\purchase.vue",
+    "chunkName": "pages/air/purchase",
+    "_name": "_0d16f614"
+  },
+  {
+    "name": "hotel-map",
+    "path": "/hotel/map",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\hotel\\\\map.vue",
+    "chunkName": "pages/hotel/map",
+    "_name": "_a5ae5da2"
+  },
+  {
+    "name": "user-login",
+    "path": "/user/login",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\user\\\\login.vue",
+    "chunkName": "pages/user/login",
+    "_name": "_747ba547"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\zgpsh\\\\Desktop\\\\xianyun_client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_c36a61ca"
+  }
+]
